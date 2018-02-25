@@ -1,2 +1,5 @@
 /Release
 /packages/*
+.vs/*
+NetCOBOLChangAPI/obj/*
+NetCOBOLChangAPI/bin/*
